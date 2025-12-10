@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: Aniket Martins
 ---
 
 ## About Me
@@ -9,8 +9,7 @@ title: <Your Name>
 ![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, hi this is Aniket, making another change
+My name is {{ site.name }} - I am a 3rd year Mechanical and Aerospace Engineering student at Cornell University. I am a student researcher with the Aerospace Adversary Lab and a Junior Fellow at the Brooks Tech Policy Institute. I am interested in the policy and technical sides of emergic technologies, national security and grand strategy. 
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.

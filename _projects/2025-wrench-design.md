@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Torque Wrench Design + Ansys
+title: Torque Wrench Design
 description: CAD and Ansys Project
 technologies: [Ansys Mechanical]
 image: /assets/images/wrench-image.jpg

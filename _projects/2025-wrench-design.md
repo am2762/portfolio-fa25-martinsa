@@ -3,7 +3,7 @@ layout: project
 title: Torque Wrench Design + Ansys
 description: CAD and Ansys Project
 technologies: [Ansys Mechanical]
-image: /assets/images/radio-machine-cad.jpg
+image: /assets/images/wrench-image.jpg
 ---
 
 [Download my technical report for this project]({{ "/assets/3270report.pdf" | relative_url }}) in PDF format.
